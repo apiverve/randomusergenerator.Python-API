@@ -68,16 +68,16 @@ print(result)
   "error": null,
   "data": [
     {
-      "id": "259364d7-ec79-4999-ba2a-1ae72654cbad",
-      "name": "Adrian Braun",
-      "gender": "Male",
-      "username": "Jonathan_Wolf6",
-      "email": "Garrick.Kuhlman@gmail.com",
-      "password": "kYCJBgvoBre30v6",
-      "registered": "2024-06-22T14:20:12.38Z",
-      "phone": "1-837-688-7413 x973",
-      "cell": "(607) 226-6671 x881",
-      "birthdate": "1973-11-11T06:30:36.969Z"
+      "id": "04e47b46-c078-4d51-a7e9-17708ebea53e",
+      "name": "Yvette Greenholt",
+      "gender": "Female",
+      "username": "Julien.Kutch",
+      "email": "Jude_Kuhic@yahoo.com",
+      "password": "M90Tqd9_5_9tbuE",
+      "registered": "2024-12-06T20:36:01.485Z",
+      "phone": "832.718.9991 x55356",
+      "cell": "(344) 512-8916 x36142",
+      "birthdate": "1958-06-28T06:23:25.829Z"
     }
   ],
   "code": 200
@@ -106,7 +106,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
